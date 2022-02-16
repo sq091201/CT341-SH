@@ -1,1 +1,17 @@
+/* Typography*/
 
+h1, h2 {
+    font-family: 'Courgette', cursive;
+    font-size: 30px;
+    color: #020c27;
+}
+
+p, a {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-size: 14px;
+    color: #272b2e;
+}
+
+/* Layout */
+
+/* Media */
