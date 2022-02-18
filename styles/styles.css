@@ -5,9 +5,9 @@ body {
     color: #272b2e;
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-family: 'Courgette', cursive;
-    font-size: 30px;
+    font-size: 25px;
     color: #020c27;
 }
 
